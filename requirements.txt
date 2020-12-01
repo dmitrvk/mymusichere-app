@@ -2,7 +2,7 @@ argh==0.26.2
 asgiref==3.3.1
 coverage==5.3
 Django==3.1.4
-django-debug-toolbar==2.2
+django-debug-toolbar==3.1.1
 docutils==0.16
 flake8==3.8.3
 isort==5.5.1
